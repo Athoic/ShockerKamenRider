@@ -3,3 +3,10 @@ Driver: Raid Riser
 
 Arms plan: Theraphosidae
 Arms plan: Vulture
+
+Change Driver: Space-time Driver
+Use converter: Progrise Key Converter
+Use Extra Tool: Assult Grip
+
+Use tech: Apologest Second Stage
+
